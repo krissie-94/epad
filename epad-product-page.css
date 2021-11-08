@@ -1,0 +1,108 @@
+h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+.welome-bground{
+    background-image: url('images/epad-img-6.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 450px;
+}
+.welcome-overlay{
+    background: rgba(136, 133, 133, 0.5);
+    color: white;
+}
+.bg-img{
+    background-image: url('images/epad-img-4.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height:350px;
+}
+h4{
+    color: blue;
+    text-align: center;
+    font-family:sans-serif;
+}
+h5{
+    text-align: center;
+    color: blue;
+}
+.bg-img-four{
+    background-image: url('images/epad-img-3.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height:100px;
+    margin-left: 110px;
+    border-radius: 100%;
+    filter: drop-shadow(10px 10px 4px #e4e1e1);
+}
+.bg-img-three{
+    background-image: url('images/epad-img-5.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height:100px;
+    margin-left: 110px;
+    border-radius: 100%;
+    filter: drop-shadow(10px 10px 4px #e4e1e1);
+    
+}
+.scnd-row-bg{
+    background-color: whitesmoke;
+}
+.btn{
+    width: 120px;
+    height: 55px;
+}
+.bg-img-two{
+    background-image: url('images/epad-img-2.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height:100px;
+    margin-left: 110px;
+    border-radius: 100%;
+    width: 10px;
+    filter: drop-shadow(10px 10px 4px  #e4e1e1);
+}
+.sub-pargs{
+    text-align: center;
+    margin-left: 20px;
+    font-size: 13px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.userandhcenter{
+    color: blue;
+    font-size: 25px;
+    font-style: italic;
+}
+.navbar{
+    font-size: 25px;
+    margin-bottom: 10rem;
+}
+.nav-item{
+    color: rgb(47, 47, 224);
+}
+.formuserdetails{
+    width: 100%;
+    text-align: center;
+    height: 50px;
+    border-style: none;
+    color: gray;
+    
+}
+.usermessage{
+    width: 100%;
+    text-align: center;
+    height: 200px;
+    border-style: none;
+}
+.sendbtn{
+    width: 40%;
+    height: 45px;
+    background-color: skyblue;
+    border-style: none;
+    color: lightslategray;
+    font-size: 20px;
+}
+
