@@ -8,7 +8,6 @@ h2{
     color: #2D56A3;
     
 }
-
 .app-color-1{
     color: #2D56A3 !important;
 }
@@ -58,7 +57,6 @@ h5{
     background-repeat: no-repeat;
     background-size: 100% 100%;
     height:100px;
-    margin-left: 70px;                        
     border-radius: 50%;
     filter: drop-shadow(10px 10px 4px #e4e1e1);
 }
@@ -67,7 +65,6 @@ h5{
     background-repeat: no-repeat;
     background-size: 100% 100%;
     height:100px;
-    margin-left: 70px;
     border-radius: 50%;
     filter: drop-shadow(10px 10px 4px #e4e1e1);
     
@@ -84,7 +81,6 @@ h5{
     background-repeat: no-repeat;
     background-size: 100% 100%;
     height:100px;
-    margin-left: 70px;
     border-radius: 100%;
     filter: drop-shadow(10px 10px 4px  #e4e1e1);
 }
@@ -93,7 +89,6 @@ h5{
     background-repeat: no-repeat;
     background-size: 100% 100%;
     height:100px;
-    margin-left: 70px;
     border-radius: 100%;
     filter: drop-shadow(10px 10px 4px  #e4e1e1);
 }
@@ -102,7 +97,6 @@ h5{
     background-repeat: no-repeat;
     background-size: 100% 100%;
     height:100px;
-    margin-left: 70px;
     border-radius: 100%;
     filter: drop-shadow(10px 10px 4px  #e4e1e1);
 }
@@ -111,27 +105,10 @@ h5{
     background-repeat: no-repeat;
     background-size: 100% 100%;
     height:100px;
-    margin-left: 70px;
     border-radius: 100%;
     filter: drop-shadow(10px 10px 4px  #e4e1e1);
 }
-.first-pargs{
-    color: black;
-    text-align: center;
-    font-size: 13px;
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
-}
-.second-pargs{
-    color: black;
-    text-align: center;
-    font-size: 13px;
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
-}
-.third-pargs{
+.users-pargs{
     color: black;
     text-align: center;
     font-size: 13px;
@@ -168,7 +145,7 @@ h5{
     border-style: none;
 }
 .sendbtn{
-    width: 45%;
+    width: 25%;
     height: 40px;
     background-color:black;
     border-style: none;
@@ -176,8 +153,6 @@ h5{
     font-size: 20px;
     border-radius: 14px;
     align-content: center;
-    margin-left: 5rem;
-    margin-right: 5rem;
 
 }
 .ourcaontactus{
@@ -200,14 +175,12 @@ h5{
     /* color: white; */
     font-size: 12px;
 }
-.pricing-divs{
+/* .pricing-divs{
     border-radius: 6%;
     margin-bottom: 4px;
     background-color: lightgray;
-}
-.newp{
-    margin-left: 80px;
-}
+} */
+
 .userp{
     text-align: right;
     margin-top: 2px;
