@@ -19,40 +19,35 @@ healthSide.addEventListener ('click', function(){
             <div class="col-12 col-sm-12 col-md-12 col-lg-12">
                 <div class="row">
                     <div class="col-sm-12 col-md-4 col-lg-4 text-muted text-center">
-                        <div class="row ">
-                            <div class="container ml-5">
-                                    <div class="col-4 bg-imgone-for-healthcenter"></div>
-                                <div class="col-9 ml-5">
+                        <div class="row d-flex justify-content-center ">
+                                    <div class="col-4 bg-imgone-for-healthcenter d-flex justify-content-center">
+                                    </div>
+                                <div class="col-9 ">
                                     <h5 class="mt-2 newp"><b>Everything for Your Healthcenter</b></h5>
-                                    <p class="first-pargs newp"> Good Health is more than Great Wealth your health matters more than any other thing So first thing first, prioritize your health</p>
-                            </div>
+                                    <p class="users-pargs newp"> Good Health is more than Great Wealth your health matters more than any other thing So first thing first, prioritize your health</p>
+                                </div>
                         </div>
-                            </div>
-                            
                      </div>
                     <div class="col-sm-12 col-md-4 col-lg-4 text-muted text-center">
-                        <div class="row">
-                            <div class="container ml-5">
-                                    <div class="col-4 bg-imgtwo-for-healthcenter"></div>
-                            
+                        <div class="row d-flex justify-content-center ">
+                                    <div class="col-4 bg-imgtwo-for-healthcenter d-flex  justify-content-center">
+                                    </div>
                             <div class="col-9">
                                 <h5 class="mt-2 newp"><b>All Employees can Interact Here</b></h5>
-                                <p class="second-pargs newp"> Be Healthy and Smile More your health matters more than any other thing So first thing first, prioritize your health</p>
+                                <p class="users-pargs newp"> Be Healthy and Smile More your health matters more than any other thing So first thing first, prioritize your health</p>
+                           </div>
                         </div>
-                    </div>
-                    </div>
                     </div>
                     <div class="col-sm-12 col-md-4 col-lg-4 text-muted text-center"> 
-                        <div class="row">
-                            <div class="container ml-5">
-                                    <div class="col-4  bg-imgthree-for-healthcenter"></div>
+                            <div class="row d-flex justify-content-center ">
+                                    <div class="col-4  bg-imgthree-for-healthcenter d-flex justify-content-center">
+                                    </div>
                             <div class="col-9">
                                 <h5 class="mt-2 newp"><b>For all Health Centers</b></h5>
-                                <p class="third-pargs newp"> Health and  Happiness your health matters more than any other thing So first thing first, prioritize your health</p> 
+                                <p class="users-pargs"> Health and  Happiness your health matters more than any other thing So first thing first, prioritize your health</p> 
                             </div>
                         </div>
-                    </div>
-                </div>
+                 </div>
             </div>
         </div>
     </div>`
