@@ -122,10 +122,13 @@ h5{
 }
 .navbar{
     font-size: 25px;
-    margin-bottom: 10rem;
+    /* margin-bottom: 10rem; */
 }
 .nav-item{
     color: rgb(47, 47, 224);
+}
+.navbg{
+    background: rgba(136, 133, 133, 0.5);
 }
 .formuserdetails{
     width: 100%;
@@ -184,4 +187,10 @@ h5{
 .userp{
     text-align: right;
     margin-top: 2px;
+}
+#healthcenterview:hover{
+    cursor: pointer;
+}
+#userview{
+    cursor: pointer;
 }
